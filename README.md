@@ -1,6 +1,6 @@
 # Brute-Media
 ### Author
-Mehrbod Expo :hear_no_evil:
+Mehrbod Expo :man_technologist:
 ### info
 Brute Media execute file to iterate list of brute by using tor DNS
 ### Execute
